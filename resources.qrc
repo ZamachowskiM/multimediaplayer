@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file>ui_icons/play.png</file>
+        <file>ui_icons/speedup.png</file>
+        <file>ui_icons/fastforward.png</file>
+        <file>ui_icons/Add File.png</file>
+        <file>ui_icons/Mute_48px.png</file>
+        <file>ui_icons/Voice_48px.png</file>
+        <file>ui_icons/exit_48px.png</file>
+        <file>ui_icons/file.png</file>
+        <file>ui_icons/mediaplayer.png</file>
+        <file>ui_icons/pause.png</file>
+        <file>ui_icons/stop.png</file>
+    </qresource>
+</RCC>
